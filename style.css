@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+body {
+    margin: 0;
+    background: rgb(39, 39, 39);
+}
+h1 {
+
+    font-family: 'Stick', sans-serif;
+    color: rgb(252, 252, 90);
+
+
+}
